@@ -8,4 +8,4 @@
 
 ### End result - ContextMenu with custom preview and destination
 
-![224559128-95d3794e-eee6-4951-ba78-8d3c5739d46d](https://user-images.githubusercontent.com/36818367/229281060-8c82e5af-f1de-48a7-a26a-d624aad531d6.gif)
+![ContextMenu_preview-ezgif com-video-to-gif-converter](https://github.com/AisultanAskarov/SwiftUI-ContextMenu-Tutorial/assets/36818367/e86a265f-0765-4ba5-b135-8d8c104de22b)
