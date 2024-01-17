@@ -1,6 +1,6 @@
 # Master SwiftUI's Context Menu UI Element
 
-![1*7AKG1oEfGFJp7jllLOGPEg](https://github.com/AisultanAskarov/SwiftUI-ContextMenu-Tutorial/assets/36818367/5cfaa9e2-536a-48f5-8673-91a85b9af62e)
+![1*HeLL70W3Qwq4oV4r-cxkJA](https://github.com/AisultanAskarov/SwiftUI-ContextMenu-Tutorial/assets/36818367/c21cb6e3-1659-4b4f-b7ec-3150597f8531)
 
 ### This repository is paired with the complete tutorial where I have covered all the aspects of SwiftUI's ContextMenu UI element.
 
